@@ -1,1 +1,1 @@
-we are licensed
+npx makeswift@latest init --template=ecommerce-thirdweb
